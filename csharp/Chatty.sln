@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatty", "Chatty\Chatty.csproj", "{9B1FAB38-0438-475F-9646-E840A3E9491E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1FAB38-0438-475F-9646-E840A3E9491E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1FAB38-0438-475F-9646-E840A3E9491E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1FAB38-0438-475F-9646-E840A3E9491E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1FAB38-0438-475F-9646-E840A3E9491E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99EBF74F-622D-48BD-8C0B-F85C4F109AAA}
+	EndGlobalSection
+EndGlobal
